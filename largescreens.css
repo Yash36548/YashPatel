@@ -1,0 +1,295 @@
+@media (1025px <=width <=1200px) {
+  hr {
+    display: none;
+  }
+  header {
+    height: 2em;
+  }
+  header p {
+    text-align: center;
+    font-size: 0.8rem;
+  }
+  .header {
+    width: 100%;
+    height: 5em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .header .charges {
+    flex-wrap: nowrap;
+    font-size: 1rem;
+    text-align: center;
+    width: 20%;
+    margin: 0;
+  }
+  .header img {
+    transform: unset;
+    height: 80px;
+    width: 80px;
+  }
+  .header .icons {
+    width: 20px;
+    height: 20px;
+    margin-right: 12em;
+  }
+  .header .icons img {
+    height: 20px;
+    width: 20px;
+  }
+  .outer-nav {
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+  }
+  .outer-nav .innear-nav {
+    width: 95%;
+  }
+  .main-heading {
+    height: 10em;
+  }
+  .main-heading h2 {
+    text-align: center;
+    margin: 0;
+    font-size: 1.4rem;
+  }
+  .main-heading p {
+    margin: 10px 0;
+    width: 96%;
+    text-align: center;
+    font-size: 1rem;
+  }
+
+  .main-content-paragraph {
+    margin-top: 20vh !important;
+  }
+
+  .innear-images-one img {
+    width: 33% !important;
+  }
+
+  .innear-images-one .text-container h1 {
+    font-size: 1.6rem;
+  }
+
+  .innear-images-one .text-container p {
+    text-align: left !important;
+  }
+
+  .innear-images-one .text-container h1 {
+    text-align: left !important;
+  }
+
+  .innear-nav {
+    height: 2em;
+    width: 100%;
+  }
+  .innear-nav a {
+    font-size: 0.8rem;
+  }
+  .innear-images-two {
+    margin-top: -3em;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .innear-images-two #primary-image {
+    height: 100%;
+  }
+
+  .image-container #firstimage img {
+    width: 29% !important;
+  }
+  .image-container img {
+    border-radius: 8px;
+    width: 200px;
+  }
+  .text-container a {
+    text-align: left;
+    margin: 0;
+  }
+  .image-container .text-container p {
+    font-size: 1rem;
+    text-align: left;
+  }
+  #text-container-i {
+    width: 35%;
+  }
+  #text-container-i h1 {
+    text-align: left;
+    margin: 0;
+  }
+  #text-container-i p {
+    text-align: left;
+    margin: 10px 0;
+    line-height: 1.2;
+  }
+  #text-container-i a {
+    text-align: left;
+    margin: 1px;
+  }
+  .text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+  }
+
+  .text-container a {
+    font-size: 0.9rem;
+  }
+  .main-heading-paragraph {
+    margin-bottom: 6.5em;
+    margin-top: -5em;
+  }
+  .third-image-div {
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+  }
+  .third-image-div img {
+    width: 30%;
+  }
+  .third-image-div .text-container {
+    width: 30%;
+    height: 30%;
+    margin-bottom: 15px;
+  }
+  .third-image-div .text-container h1 {
+    text-align: left;
+    margin-bottom: 0;
+  }
+  .third-image-div .text-container p {
+    line-height: 1.2;
+    text-align: left;
+    margin: 10px 0;
+    /* margin-top: -10px; */
+  }
+  #sub-section {
+    flex-direction: row;
+    margin-top: 3em;
+  }
+  #text-container-ii h1 {
+    margin-bottom: 0;
+  }
+  #text-container-ii p {
+    line-height: 1.1;
+    margin: 10px 0;
+  }
+  
+  #image-xi {
+    width: 55%;
+  }
+
+  .fifth-div {
+    margin-top: 2em;
+  }
+
+  .fifth-div img {
+    width: 50% !important;
+  }
+  .fifth-div .text-container {
+    width: 40%;
+  }
+  .fifth-div .text-container h1 {
+    margin: 0;
+    line-height: 1.2;
+  }
+  .fifth-div .text-container p {
+    margin: 10px 0;
+    line-height: 1.2;
+  }
+  .fifth-div .text-container a {
+    margin: unset !important;
+  }
+  #fifth-div {
+    margin-top: 2em;
+  }
+  #fifth-div h1 {
+    margin: 0;
+  }
+  #fifth-div p {
+    margin: 10px 0;
+    line-height: 1.2;
+  }
+  #fifth-div a {
+    margin: 0;
+  }
+  .fifth-div-res .text-container p {
+    line-height: 1.5;
+  }
+  .fifth-div-res .text-container a {
+    margin-top: -1em;
+  }
+  .flex-div {
+    margin-top: 2em;
+  }
+  .flex-div .text-container {
+    width: 29%;
+  }
+  .flex-div .text-container h1 {
+    text-align: left;
+  }
+  .flex-div .text-container p {
+    margin: 10px 0;
+  }
+  .flex-div .text-container a {
+    margin: 0;
+  }
+  .flex-div-ii img {
+    width: 33% !important;
+  }
+  .footer-heading {
+    height: 5em;
+    padding-bottom: 15px;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .footer-heading p {
+    text-align: center;
+  }
+  .heading-label {
+    margin: 0%;
+  }
+  .heading-label p {
+    font-size: 0.9rem;
+  }
+  .header-input input {
+    margin: 0%;
+    width: 300px;
+  }
+  .footer-content a {
+    font-size: 0.9rem;
+    line-height: 2;
+  }
+  .footer-content h5 {
+    font-size: 1rem;
+  }
+  .footer-text-content {
+    align-items: center;
+    height: 3em;
+  }
+  .footer-text-content .text {
+    text-align: center;
+    font-size: 0.85rem;
+    margin-top: 3px;
+  }
+  .footer-text-content .text p {
+    line-height: 1.2;
+    margin: 0;
+  }
+  .footer-text-content .logo {
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .footer-text {
+    text-align: center;
+    height: 1.5em;
+    width: 100%;
+  }
+  .footer-text p {
+    font-size: 0.85rem;
+    line-height: 1.2;
+  }
+}

@@ -1,0 +1,329 @@
+@media (481px <=width <=600px) {
+    #no-media {
+        margin-top: 2em;
+    }
+    hr {
+        display: block;
+        width: 100%;
+    }
+    header {
+        height: 3em;
+    }
+    header p {
+        text-align: center;
+        line-height: 1.5;
+        font-size: 0.9rem;
+    }
+    .header .menu-button {
+        display: block;
+        margin-right: 50px;
+    }
+    .header {
+        height: 5em;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .header .charges {
+        margin: unset;
+        font-size: 0.9rem;
+        text-align: center !important;
+        width: 29%;
+    }
+    .header img {
+        height: 80px;
+        width: 80px;
+    }
+    .menu-button {
+        text-align: center;
+        width: 29%;
+        margin: unset !important;
+    }
+    .header .icons {
+        display: none;
+    }
+    .main-heading {
+        height: 13em;
+    }
+    .main-heading h2 {
+        text-align: center;
+        font-size: 1.4rem;
+    }
+    .main-heading p {
+        margin-bottom: -5px;
+        width: 95%;
+        text-align: center;
+        font-size: 0.95rem;
+    }
+    .innear-nav {
+        height: 2em;
+    }
+    .outer-nav {
+        display: none;
+    }
+    #primaryimage {
+        margin: 1.5em 0;
+        margin-top: 2em;
+    }
+    .innear-images-one {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .innear-images-two {
+        flex-wrap: wrap;
+        margin-top: -3em;
+    }
+    .innear-images-two img:nth-child(even) {
+        display: none;
+    }
+    .main-heading-paragraph {
+        margin-top: 2em;
+        padding: unset;
+    }
+    .main-content-paragraph {
+        margin: unset;
+        margin-bottom: 5px;
+    }
+    .main-content-heading {
+        margin: unset;
+    }
+    .main-content img {
+        width: 100%;
+    }
+    .innear-images-one .text-container {
+        margin-top: 2em;
+        margin-bottom: 0 !important;
+    }
+    .bridal-div {
+        margin-top: 1.7em !important;
+    }
+    .bridal-div .text-container {
+        order: 1;
+    }
+    .fifth-div img {
+        width: 100% !important;
+    }
+    .fifth-div-res {
+        margin-top: 3em !important;
+    }
+    .innear-images-one .text-container h1 {
+        font-size: 1.4rem;
+        margin: unset;
+    }
+    .innear-images-one .text-container p {
+        margin: 10px 0;
+        width: 100%;
+    }
+    .image-container img {
+        border-radius: 8px;
+        width: 200px;
+    }
+    #text-container-i {
+        margin-top: 2.5em;
+        margin-bottom: -2em;
+    }
+    .text-container a {
+        text-align: center;
+    }
+    .text-container h1 {
+        text-align: center;
+    }
+    .text-container p {
+        width: 100%;
+        font-size: 1.8rem;
+    }
+    .image-container .text-container p {
+        width: 100%;
+        font-size: 1rem;
+        text-align: center;
+    }
+    .image-name {
+        display: none;
+    }
+    .text-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .text-container h1 {
+        font-size: 27px;
+    }
+    .text-container p {
+        width: 100%;
+        font-size: 18px;
+    }
+    .text-container a {
+        font-size: 16px;
+    }
+    .main-heading-paragraph {
+        margin-bottom: 6.5em;
+    }
+    .third-image-div {
+        margin-top: -0.5em;
+        margin-bottom: 1.5em;
+    }
+    .third-image-div .text-container {
+        margin-top: 1em;
+    }
+    #hidden-image {
+        display: none;
+    }
+    #sub-section {
+        flex-direction: row;
+        margin-top: 3em;
+    }
+    #text-container-ii {
+        order: 2;
+    }
+    #text-container-ii p {
+        margin: 15px 0;
+    }
+    #text-container-ii h1 {
+        margin: unset;
+    }
+    .fifth-div {
+        margin-top: 1.5em;
+    }
+    .fifth-div-res .text-container p {
+        width: 100%;
+        margin-top: 10px!important;
+        line-height: 1.2 !important;
+    }
+    #fifth-div .text-container p {
+        width: 100%;
+        line-height: unset;
+        padding: unset;
+    }
+    #fifth-div .text-container a {
+        margin: unset;
+    }
+    #image-xi {
+        width: 100%;
+    }
+    .fifth-div .text-container {
+        order: 2;
+        margin-top: 3vh;
+    }
+    .fifth-div .text-container p {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .fifth-div #text-c h1 {
+        margin: unset;
+    }
+    .fifth-div #text-c p {
+        margin: 10px 0;
+    }
+    .fifth-div #text-c a {
+        margin: unset;
+    }
+    #fifth-div {
+        flex-direction: column-reverse;
+        margin-top: 2em;
+    }
+    .fifth-div-res .text-container p {
+        width: 90%;
+        margin: 20px 0;
+        line-height: 1.2;
+    }
+    .fifth-div-res .text-container a {
+        margin-top: -1em;
+    }
+    .final-hr {
+        margin-bottom: 1.5em !important;
+    }
+    #res-img {
+        width: 100%;
+    }
+    .flex-div-ii {
+        margin-top: 1.5em;
+        flex-direction: column-reverse;
+    }
+    .flex-div .text-container {
+        margin-top: 20px;
+    }
+    .flex-div .text-container p {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .flex-div {
+        margin-top: 1.5em;
+    }
+     ::placeholder {
+        text-align: center;
+    }
+    .heading-label {
+        width: 100%;
+        margin: 0% !important;
+    }
+    .heading-label p {
+        text-align: center;
+        margin: 0%;
+    }
+    .header-input input {
+        margin: 0%;
+        width: 300px;
+    }
+    .footer-content {
+        flex-wrap: wrap;
+        width: 99%;
+        gap: 0.4em;
+    }
+    .footer-content a {
+        font-size: 0.9rem;
+        line-height: 2;
+    }
+    .footer-content h5 {
+        font-size: 1rem;
+    }
+    .footer-heading {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+    }
+    .footer-text-content {
+        flex-direction: column;
+        padding-bottom: 1.5em;
+    }
+    .footer-text-content .text {
+        text-align: center;
+        font-size: 0.85rem;
+        margin-top: 3px;
+    }
+    .footer-text-content .text p {
+        line-height: 1.2;
+    }
+    .footer-text-content .logo {
+        width: 50%;
+        margin: 0;
+        margin-bottom: -10px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .footer-text {
+        text-align: center;
+        height: 1.5em;
+        width: 100%;
+    }
+    .footer-text p {
+        font-size: 0.85rem;
+        line-height: 1.2;
+    }
+}
+
+@media (481px <=width <=510px) {
+    .image-container img {
+        width: 200px;
+    }
+}
+
+@media (511px <=width <=600px) {
+    .image-container img {
+        width: 220px;
+    }
+    .header-input input {
+        width: 300px;
+    }
+}

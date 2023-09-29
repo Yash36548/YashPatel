@@ -1,0 +1,380 @@
+@media (601px <=width <=768px) {
+  hr {
+    display: none;
+  }
+
+  header {
+    height: 2em;
+  }
+
+  header p {
+    text-align: center;
+    margin: 0px;
+    font-size: 0.8rem;
+  }
+
+  .header .menu-button {
+    display: block;
+    margin-right: 75px;
+  }
+
+  .header {
+    height: 5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .header .charges {
+    font-size: 1rem;
+    text-align: center;
+    width: 29%;
+  }
+
+  .header img {
+    height: 80px;
+    width: 80px;
+  }
+
+  .menu-button {
+    width: 29% !important;
+  }
+
+  .header .icons {
+    display: none;
+  }
+
+  .menu-button {
+    display: block;
+    width: 20%;
+    text-align: center;
+    margin: unset !important;
+  }
+
+  .main-heading {
+    height: 13em;
+  }
+
+  .main-heading h2 {
+    text-align: center;
+    font-size: 1.4rem;
+  }
+
+  .main-heading p {
+    margin-bottom: -5px;
+    width: 95%;
+    text-align: center;
+    font-size: 0.95rem;
+  }
+
+  .innear-nav {
+    width: 100%;
+  }
+
+  .outer-nav {
+    display: none;
+  }
+
+  .innear-images-two {
+    margin-top: -3em;
+  }
+
+  .innear-images-one img {
+    width: 29% !important;
+  }
+
+  .innear-images-one .text-container {
+    width: 29%;
+    margin-bottom: 10px !important;
+  }
+
+  .innear-images-one .text-container h1 {
+    font-size: 1.4rem;
+  }
+
+  .innear-images-one .text-container p {
+    font-size: 1.4rem;
+  }
+
+  .image-container #firstimage img {
+    width: 29% !important;
+  }
+
+  .image-container img {
+    border-radius: 8px;
+    width: 200px;
+  }
+
+  .text-container a {
+    text-align: center;
+    margin-bottom: 1.1em;
+    padding: 2px 15px;
+  }
+
+  .image-container .text-container p {
+    font-size: 1rem;
+    line-height: 1.2em;
+    margin: 10px 0;
+    text-align: center;
+  }
+
+  .image-name {
+    display: none;
+  }
+
+  #primaryimage .text-container p {
+    margin: 10px 0;
+  }
+
+  #text-container-i {
+    width: 35%;
+  }
+
+  #text-container-i h1 {
+    margin: 0;
+  }
+
+  #text-container-i p {
+    margin: 10px 0;
+    line-height: 1.2;
+  }
+
+  #text-container-i a {
+    margin: 1px;
+  }
+
+  .text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .text-container h1 {
+    font-size: 27px;
+  }
+
+  .text-container p {
+    font-size: 18px;
+  }
+
+  .text-container a {
+    font-size: 16px;
+  }
+
+  .main-heading-paragraph {
+    margin: 4em;
+    margin-bottom: 6em;
+    padding: unset;
+  }
+
+  .main-content-paragraph {
+    margin: unset;
+    margin-bottom: 5px;
+  }
+
+  .main-content-heading {
+    margin: unset;
+  }
+
+  .third-image-div {
+    margin-top: 2em;
+  }
+
+  .third-image-div .text-container {
+    width: 29%;
+    margin-bottom: 10px !important;
+  }
+
+  .third-image-div .text-container h1 {
+    text-align: center;
+  }
+
+  .third-image-div .text-container p {
+    line-height: 1.2;
+    text-align: center;
+    margin: 10px 0;
+    margin-top: -2px;
+  }
+
+  #hidden-image {
+    display: none;
+  }
+
+  #sub-section {
+    flex-direction: row;
+    margin-top: 3em;
+  }
+
+  #text-container-ii h1 {
+    margin-bottom: 0;
+  }
+
+  #text-container-ii p {
+    line-height: 1.1;
+    margin: 10px 0;
+  }
+
+  .fifth-div {
+    width: 100;
+    margin-top: 2em;
+    display: flex;
+    justify-content: space-between !important;
+  }
+
+  .fifth-div img {
+    width: 50% !important;
+    height: auto !important;
+  }
+
+  .fifth-div .text-container {
+    width: 45% !important;
+  }
+
+  .fifth-div .text-container h1 {
+    margin: 0;
+    text-align: center !important;
+    line-height: 1.2;
+  }
+
+  .fifth-div #text-c p {
+    margin: 10px 0;
+    line-height: 0.9;
+  }
+
+  #fifth-div {
+    margin-top: 2em;
+  }
+
+  #fifth-div h1 {
+    margin: 0;
+  }
+
+  #fifth-div p {
+    margin: 10px 0;
+    line-height: 1.2;
+  }
+
+  #fifth-div a {
+    margin: 0;
+  }
+
+  .fifth-div-res .text-container p {
+    line-height: 1.1;
+    
+    margin: 10px 0;
+  }
+
+  #menswear a {
+    padding: 10px;
+  }
+
+  .flex-div {
+    margin-top: 2em;
+  }
+
+  .flex-div img {
+    width: 42% !important;
+  }
+
+  .flex-div .text-container {
+    width: 45%;
+  }
+
+  .flex-div .text-container h1 {
+    margin: 0;
+    text-align: center;
+  }
+
+  .flex-div .text-container p {
+    margin: 10px 0;
+  }
+
+  .flex-div .text-container a {
+    margin: 0;
+  }
+
+  .footer-heading {
+    height: 5em;
+    padding-bottom: 15px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .footer-heading p {
+    text-align: center;
+  }
+
+  .heading-label p {
+    font-size: 0.9rem;
+  }
+
+  .header-input input {
+    width: 250px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer-content {
+    flex-wrap: wrap;
+    width: 99%;
+    gap: 0.4em;
+  }
+
+  .footer-content a {
+    font-size: 0.9rem;
+    line-height: 2;
+  }
+
+  .footer-content h5 {
+    font-size: 1rem;
+  }
+
+  .footer-text-content {
+    flex-direction: column;
+    padding-bottom: 1.5em;
+  }
+
+  .footer-text-content .text {
+    text-align: center;
+    font-size: 0.85rem;
+    margin-top: 3px;
+  }
+
+  .footer-text-content .text p {
+    line-height: 1.2;
+  }
+
+  .footer-text-content .logo {
+    width: 50%;
+    margin-bottom: -10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .footer-text {
+    text-align: center;
+    height: 1.5em;
+    width: 100%;
+  }
+
+  .footer-text p {
+    font-size: 0.85rem;
+    line-height: 1.2;
+  }
+}
+
+@media (701 <= width <= 768) {
+  .footer-heading {
+    flex-direction: row !important;
+  }
+
+  .innear-images-one .text-container h1 {
+    text-align: left !important;
+  }
+
+  .innear-images-one .text-container p {
+    text-align: left !important;
+  }
+}

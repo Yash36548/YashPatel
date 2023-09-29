@@ -1,0 +1,35 @@
+header, .charges, a, input, i {
+  cursor: pointer;
+}
+
+.main-content a:hover, .innear-nav a:hover {
+  transition: background-color 0.5s, color 0.5s, transform 0.5s linear;
+  transform: scale(1.1);
+}
+
+.main-content a:hover {
+  color: #ffffff;
+}
+
+.innear-nav a:hover {
+    color: black;
+    box-shadow: 2px 2px 8px lightgray;
+}
+
+.main-content a:hover {
+  background-color: #4c6d4c;
+  border-color: #4c6d4c;
+  box-shadow: 2px 2px 8px darkgrey;
+}
+
+.main-content img:hover {
+  box-shadow: 0px 5px 15px #727272;
+  transition: 0.35s linear;
+  transform: scale(1.005);
+}
+
+footer a:hover {
+    color: #04aa6d;
+    text-decoration: underline;
+    transition: 0.2s linear;
+}

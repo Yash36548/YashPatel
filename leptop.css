@@ -1,0 +1,310 @@
+@media (769px <=width <=1024px) {
+  hr {
+    display: none;
+  }
+  header {
+    height: 2em;
+  }
+  header p {
+    text-align: center;
+    margin: 0px;
+    font-size: 0.8rem;
+  }
+  .header {
+    width: 100%;
+    margin: unset;
+    height: 5em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .header .charges {
+    width: 25%;
+    font-size: 1rem;
+    text-align: unset;
+    margin: unset;
+  }
+  .header img {
+    transform: unset;
+    height: 80px;
+    width: 80px;
+  }
+  
+  .header .icons {
+    width: 13px;
+    height: 13px;
+    margin-right: 12em;
+  }
+
+  .header .icons i {
+    margin: 0 10px;
+  }
+
+  .header .icons img {
+    height: 19px;
+    width: 19px;
+  }
+
+  .outer-nav {
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+  }
+  .main-heading {
+    height: 10em;
+  }
+  .main-heading h2 {
+    text-align: center;
+    margin: 0;
+    font-size: 1.4rem;
+  }
+  .main-heading p {
+    margin: 10px 0;
+    width: 96%;
+    text-align: center;
+    font-size: 1rem;
+  }
+
+  .main-content-paragraph {
+    margin: unset;
+  }
+  
+  .innear-nav {
+    height: 2em;
+    width: 100%;
+  }
+  .innear-nav a {
+    font-size: 0.8rem;
+  }
+  .innear-images-two {
+    margin-top: -3em;
+  }
+
+  .innear-images-one img {
+    width: 30% !important;
+  }
+  .innear-images-one .text-container h1 {
+    font-size: 1.6rem;
+  }
+
+  .innear-images-one .text-container p  {
+    text-align: left !important;
+  }
+
+  .innear-images-one .text-container h1  {
+    text-align: left !important;
+  }
+
+  .image-container #firstimage img {
+    width: 29% !important;
+  }
+  .image-container img {
+    border-radius: 8px;
+    width: 200px;
+  }
+  .text-container a {
+    margin: 0;
+  }
+  .image-container .text-container p {
+    font-size: 1rem;
+  }
+  .image-name {
+    display: none;
+  }
+  #text-container-i {
+    width: 35%;
+  }
+  #text-container-i h1 {
+    margin: 0;
+  }
+  #text-container-i p {
+    margin: 10px 0;
+    line-height: 1.2;
+  }
+  #text-container-i a {
+    margin: 1px;
+  }
+  .text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+  }
+
+  .text-container a {
+    font-size: 0.9rem;
+  }
+  
+  .main-heading-paragraph {
+    margin: 4em;
+    margin-bottom: 6em;
+    padding: unset;
+  }
+
+  .main-content-paragraph {
+    margin: unset;
+    margin-bottom: 5px;
+  }
+
+  .main-content-heading {
+    margin: unset;
+  }
+
+  .third-image-div {
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+  }
+  .third-image-div img {
+    width: 30%;
+  }
+  .third-image-div .text-container {
+    width: 30%;
+    height: 30%;
+    margin-bottom: 15px;
+  }
+  .third-image-div .text-container h1 {
+    text-align: center;
+    margin-bottom: 0;
+  }
+  .third-image-div .text-container p {
+    line-height: 1.2;
+    text-align: center;
+    margin: 10px 0;
+  }
+  #sub-section {
+    flex-direction: row;
+    margin-top: 3em;
+  }
+  #text-container-ii h1 {
+    margin-bottom: 0;
+  }
+  #text-container-ii p {
+    line-height: 1.1;
+    margin: 10px 0;
+  }
+  .fifth-div {
+    margin-top: 2em;
+  }
+  .fifth-div img {
+    width: 50% !important;
+  }
+  .fifth-div .text-container {
+    width: 40%;
+  }
+  .fifth-div .text-container h1 {
+    margin: unset;
+    line-height: 1.2;
+  }
+  .fifth-div .text-container p {
+    margin: 10px 0;
+    line-height: 1.2;
+  }
+  .fifth-div .text-container a {
+    margin: unset !important;
+    padding: 10px;
+    line-height: 1.2;
+  }
+
+  #fifth-div {
+    margin-top: 2em;
+  }
+  #fifth-div h1 {
+    margin: 0;
+  }
+  #fifth-div p {
+    margin: 10px 0;
+    line-height: 1.2;
+  }
+  #fifth-div a {
+    margin: 0;
+  }
+  .fifth-div-res .text-container p {
+    line-height: 1.5;
+  }
+  .fifth-div-res .text-container a {
+    margin-top: -1em;
+  }
+  .flex-div {
+    margin-top: 2em;
+  }
+
+  .flex-div-ii .text-container {
+    width: 37%;
+  }
+
+  #menswear {
+    width: 35%;
+  }
+
+  #menswear h1 {
+    text-align: left !important;
+  }
+
+  #text-c a{
+    padding: 10px;
+  }
+
+  .flex-div .text-container h1 {
+    margin: 0;
+  }
+  .flex-div .text-container p {
+    margin: 10px 0;
+  }
+  .flex-div .text-container a {
+    margin: 0;
+  }
+  .footer-heading {
+    height: 5em;
+    padding-bottom: 15px;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .footer-heading p {
+    text-align: center;
+  }
+  .heading-label {
+    margin: 0%;
+  }
+  .heading-label p {
+    font-size: 0.9rem;
+  }
+  .header-input input {
+    margin: 0%;
+    width: 300px;
+  }
+  .footer-content a {
+    font-size: 0.9rem;
+    line-height: 2;
+  }
+  .footer-content h5 {
+    font-size: 1rem;
+  }
+  .footer-text-content {
+    align-items: center;
+    height: 3em;
+  }
+  .footer-text-content .text {
+    text-align: center;
+    font-size: 0.85rem;
+    margin-top: 3px;
+  }
+  .footer-text-content .text p {
+    line-height: 1.2;
+    margin: 0;
+  }
+  .footer-text-content .logo {
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .footer-text {
+    text-align: center;
+    height: 1.5em;
+    width: 100%;
+  }
+  .footer-text p {
+    font-size: 0.85rem;
+    line-height: 1.2;
+  }
+}
